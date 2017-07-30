@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26430.15
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonCrawlerPractice", "PythonCrawlerPractice\PythonCrawlerPractice.pyproj", "{5E1250B1-F86D-46C5-8DFB-E3854B232908}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonCrawlerPracticeWebElement", "PythonCrawlerPracticeWebElement\PythonCrawlerPracticeWebElement.pyproj", "{A749424B-A575-4271-892D-4985DF98B5E0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,8 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{5E1250B1-F86D-46C5-8DFB-E3854B232908}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{5E1250B1-F86D-46C5-8DFB-E3854B232908}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A749424B-A575-4271-892D-4985DF98B5E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A749424B-A575-4271-892D-4985DF98B5E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
